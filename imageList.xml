@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<imagelist>
+	<image>
+		<file>images/Chrysanthemum.jpg</file>
+		<name>Chrysanthemum</name>
+		<comment>Comments on Chrysanthemum</comment>
+	</image>	
+	<image>
+		<file>images/Desert.jpg</file>
+		<name>Desert</name>
+		<comment>Comments on Desert</comment>
+	</image>	
+	<image>
+		<file>images/Hydrangeas.jpg</file>
+		<name>Hydrangeas</name>
+		<comment>Comments on Hydrangeas</comment>
+	</image>
+	<image>
+		<file>images/Jellyfish.jpg</file>
+		<name>Jellyfish</name>
+		<comment>Comments on Jellyfish</comment>
+	</image>	
+	<image>
+		<file>images/Koala.jpg</file>
+		<name>Koala</name>
+		<comment>Comments on Koala</comment>
+	</image>
+	<image>
+		<file>images/Lighthouse.jpg</file>
+		<name>Lighthouse</name>
+		<comment>Comments on Lighthouse</comment>
+	</image>
+	<image>
+		<file>images/Penguins.jpg</file>
+		<name>Penguins</name>
+		<comment>Comments on Penguins</comment>
+	</image>
+	<image>
+		<file>images/Tulips.jpg</file>
+		<name>Tulips</name>
+		<comment>Comments on Tulips</comment>
+	</image>
+</imagelist>
